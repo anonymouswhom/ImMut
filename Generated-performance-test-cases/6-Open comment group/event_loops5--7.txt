@@ -1,0 +1,22 @@
+1618987155056-0-adb shell am start -n com.keylesspalace.tusky/.SplashActivity
+1618987162759-1-adb shell input text "artalley.social"
+1618987170562-2-adb shell input tap 719  1171
+1618987180211-3-adb shell input tap 953  1884
+1618987190639-4-adb shell input tap 721  1060
+1618987201243-5-adb shell input tap 900  364
+1618987215544-0-adb shell input tap 453  521
+1618987224794-7-adb shell input keyevent 4
+1618987236364-0-adb shell input tap 984  521
+1618987244120-7-adb shell input keyevent 4
+1618987255669-0-adb shell input tap 1360  521
+1618987263459-7-adb shell input keyevent 4
+1618987275010-0-adb shell input tap 828  917
+1618987282857-7-adb shell input keyevent 4
+1618987294364-0-adb shell input tap 472  2185
+1618987304641-7-adb shell input keyevent 4
+1618987316255-0-adb shell input tap 1003  2185
+1618987324250-7-adb shell input keyevent 4
+1618987335795-0-adb shell input tap 1360  2185
+1618987347801-7-adb shell input keyevent 4
+1618987356909-7-adb shell input keyevent 4
+1618987364779-8-adb shell am force-stop com.keylesspalace.tusky

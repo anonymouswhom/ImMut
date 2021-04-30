@@ -1,0 +1,47 @@
+1619016590188-0-adb shell am start -n org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity
+1619016599325-1-adb shell input tap 720  2084
+1619016607261-2-adb shell input tap 720  628
+1619016615026-3-adb shell input text "wenjielinju@gmail.com"
+1619016622964-4-adb shell input tap 720  974
+1619016631484-5-adb shell input text "liwenjie312523"
+1619016639327-6-adb shell input tap 720  1286
+1619016680196-7-adb shell input tap 720  2273
+1619016688745-8-adb shell input tap 1027  1767
+1619016696577-9-adb shell input tap 309  1404
+1619016709353-10-adb shell input tap 460  695
+1619016717184-11-adb shell input keyevent 4
+1619016723718--1-adb shell input swipe 700 1400  700 400
+1619016730620--1-adb shell input swipe 700 1400  700 400
+1619016740097-2-adb shell input tap 818  377
+1619016751655-0-adb shell input tap 461  1451
+1619016759329-1-adb shell input tap 461  1451
+1619016766982-2-adb shell input tap 480  443
+1619016778345-0-adb shell input tap 461  1451
+1619016786212-1-adb shell input tap 461  1451
+1619016794526-2-adb shell input tap 818  629
+1619016806719-0-adb shell input tap 461  1451
+1619016815596-1-adb shell input tap 461  1451
+1619016823302-2-adb shell input tap 460  695
+1619016834968-0-adb shell input tap 461  1451
+1619016843132-1-adb shell input tap 461  1451
+1619016851002-2-adb shell input tap 818  881
+1619016862579-0-adb shell input tap 461  1451
+1619016870600-1-adb shell input tap 461  1451
+1619016878835-2-adb shell input tap 445  947
+1619016890560-0-adb shell input tap 461  1451
+1619016898291-1-adb shell input tap 461  1451
+1619016905990-2-adb shell input tap 818  1133
+1619016917582-0-adb shell input tap 461  1451
+1619016925416-1-adb shell input tap 461  1451
+1619016933277-2-adb shell input tap 488  1199
+1619016944715-0-adb shell input tap 461  1451
+1619016952509-1-adb shell input tap 461  1451
+1619016960249-2-adb shell input tap 818  1385
+1619016971613-0-adb shell input tap 461  1451
+1619016979294-1-adb shell input tap 461  1451
+1619016986942-2-adb shell input tap 461  1451
+1619016994670-14-adb shell input tap 628  181
+1619017002379-15-adb shell input keyevent 4
+1619017010033-16-adb shell input keyevent 4
+1619017017833-17-adb shell input keyevent 4
+1619017026734-18-adb shell am force-stop org.wordpress.android

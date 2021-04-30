@@ -1,0 +1,96 @@
+1619015349483-0-adb shell am start -n org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity
+1619015357639-1-adb shell input tap 720  2084
+1619015365198-2-adb shell input tap 720  628
+1619015372710-3-adb shell input text "wenjielinju@gmail.com"
+1619015380340-4-adb shell input tap 720  974
+1619015388218-5-adb shell input text "liwenjie312523"
+1619015395767-6-adb shell input tap 720  1286
+1619015435823-7-adb shell input tap 720  2273
+1619015444448-8-adb shell input tap 1027  1767
+1619015452192-9-adb shell input tap 309  1404
+1619015461073-10-adb shell input tap 460  695
+1619015468796-11-adb shell input keyevent 4
+1619015475073--1-adb shell input swipe 700 1400  700 400
+1619015481669--1-adb shell input swipe 700 1400  700 400
+1619015491008-2-adb shell input tap 818  377
+1619015500036-3-adb shell input tap 351  181
+1619015511482-0-adb shell input tap 461  1451
+1619015519148-1-adb shell input tap 461  1451
+1619015526831-2-adb shell input tap 818  377
+1619015534507-3-adb shell input tap 628  181
+1619015545902-0-adb shell input tap 461  1451
+1619015553596-1-adb shell input tap 461  1451
+1619015561273-2-adb shell input tap 480  443
+1619015570335-3-adb shell input tap 351  181
+1619015581701-0-adb shell input tap 461  1451
+1619015589337-1-adb shell input tap 461  1451
+1619015597027-2-adb shell input tap 480  443
+1619015604712-3-adb shell input tap 628  181
+1619015616113-0-adb shell input tap 461  1451
+1619015623792-1-adb shell input tap 461  1451
+1619015631460-2-adb shell input tap 818  629
+1619015640490-3-adb shell input tap 351  181
+1619015651862-0-adb shell input tap 461  1451
+1619015659497-1-adb shell input tap 461  1451
+1619015667173-2-adb shell input tap 818  629
+1619015674868-3-adb shell input tap 628  181
+1619015686301-0-adb shell input tap 461  1451
+1619015693959-1-adb shell input tap 461  1451
+1619015701645-2-adb shell input tap 460  695
+1619015710659-3-adb shell input tap 351  181
+1619015722034-0-adb shell input tap 461  1451
+1619015729721-1-adb shell input tap 461  1451
+1619015737370-2-adb shell input tap 460  695
+1619015745012-3-adb shell input tap 628  181
+1619015756421-0-adb shell input tap 461  1451
+1619015764065-1-adb shell input tap 461  1451
+1619015771729-2-adb shell input tap 818  881
+1619015780763-3-adb shell input tap 351  181
+1619015792169-0-adb shell input tap 461  1451
+1619015799806-1-adb shell input tap 461  1451
+1619015807485-2-adb shell input tap 818  881
+1619015815137-3-adb shell input tap 628  181
+1619015826494-0-adb shell input tap 461  1451
+1619015834216-1-adb shell input tap 461  1451
+1619015841845-2-adb shell input tap 445  947
+1619015850862-3-adb shell input tap 351  181
+1619015862214-0-adb shell input tap 461  1451
+1619015869863-1-adb shell input tap 461  1451
+1619015877529-2-adb shell input tap 445  947
+1619015885176-3-adb shell input tap 628  181
+1619015896545-0-adb shell input tap 461  1451
+1619015904185-1-adb shell input tap 461  1451
+1619015911812-2-adb shell input tap 818  1133
+1619015920827-3-adb shell input tap 351  181
+1619015932194-0-adb shell input tap 461  1451
+1619015939827-1-adb shell input tap 461  1451
+1619015947610-2-adb shell input tap 818  1133
+1619015955364-3-adb shell input tap 628  181
+1619015966823-0-adb shell input tap 461  1451
+1619015974472-1-adb shell input tap 461  1451
+1619015982124-2-adb shell input tap 488  1199
+1619015992860-3-adb shell input tap 351  181
+1619016004243-0-adb shell input tap 461  1451
+1619016011853-1-adb shell input tap 461  1451
+1619016019537-2-adb shell input tap 488  1199
+1619016027289-3-adb shell input tap 628  181
+1619016038676-0-adb shell input tap 461  1451
+1619016046306-1-adb shell input tap 461  1451
+1619016053978-2-adb shell input tap 818  1385
+1619016063099-3-adb shell input tap 351  181
+1619016074426-0-adb shell input tap 461  1451
+1619016081947-1-adb shell input tap 461  1451
+1619016089529-2-adb shell input tap 818  1385
+1619016097098-3-adb shell input tap 628  181
+1619016108377-0-adb shell input tap 461  1451
+1619016115922-1-adb shell input tap 461  1451
+1619016123402-2-adb shell input tap 461  1451
+1619016132185-3-adb shell input tap 351  181
+1619016143503-0-adb shell input tap 461  1451
+1619016150970-1-adb shell input tap 461  1451
+1619016158477-2-adb shell input tap 461  1451
+1619016165950-3-adb shell input tap 628  181
+1619016173475-15-adb shell input keyevent 4
+1619016180933-16-adb shell input keyevent 4
+1619016188511-17-adb shell input keyevent 4
+1619016198007-18-adb shell am force-stop org.wordpress.android

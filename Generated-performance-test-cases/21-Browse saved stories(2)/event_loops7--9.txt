@@ -1,0 +1,44 @@
+1618978578596-0-adb shell am start -n com.newsblur/.activity.InitActivity
+1618978586234-1-adb shell input text "struggggle"
+1618978593920-2-adb shell input tap 720  878
+1618978601556-3-adb shell input text "liwenjie"
+1618978609225-4-adb shell input tap 1181  1085
+1618978623983-5-adb shell input tap 316  1215
+1618978633600-6-adb shell input tap 1282  486
+1618978641636-7-adb shell input keyevent 4
+1618978655017-0-adb shell input tap 147  325
+1618978662830-9-adb shell input keyevent 4
+1618978674451-0-adb shell input tap 1062  398
+1618978682228-9-adb shell input keyevent 4
+1618978693864-0-adb shell input tap 1282  486
+1618978701591-9-adb shell input keyevent 4
+1618978713176-0-adb shell input tap 147  739
+1618978720892-9-adb shell input keyevent 4
+1618978732478-0-adb shell input tap 1062  812
+1618978740214-9-adb shell input keyevent 4
+1618978751799-0-adb shell input tap 1282  900
+1618978759608-9-adb shell input keyevent 4
+1618978771251-0-adb shell input tap 147  1153
+1618978779041-9-adb shell input keyevent 4
+1618978790703-0-adb shell input tap 1062  1226
+1618978798500-9-adb shell input keyevent 4
+1618978810179-0-adb shell input tap 1282  1314
+1618978817961-9-adb shell input keyevent 4
+1618978829582-0-adb shell input tap 147  1567
+1618978837403-9-adb shell input keyevent 4
+1618978849161-0-adb shell input tap 1062  1640
+1618978856841-9-adb shell input keyevent 4
+1618978868444-0-adb shell input tap 1282  1728
+1618978876140-9-adb shell input keyevent 4
+1618978887679-0-adb shell input tap 147  1981
+1618978895399-9-adb shell input keyevent 4
+1618978906906-0-adb shell input tap 1377  2054
+1618978914586-9-adb shell input keyevent 4
+1618978926297-0-adb shell input tap 147  2289
+1618978934324-9-adb shell input keyevent 4
+1618978946068-0-adb shell input tap 1062  2359
+1618978953892-9-adb shell input keyevent 4
+1618978965601-0-adb shell input tap 1282  2330
+1618978973459-9-adb shell input keyevent 4
+1618978981202-10-adb shell input swipe 700 1400  700 400
+1618978989633-11-adb shell am force-stop com.newsblur

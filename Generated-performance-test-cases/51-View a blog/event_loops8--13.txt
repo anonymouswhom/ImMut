@@ -1,0 +1,11 @@
+1618890087352-0-adb shell am start -n org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity
+1618890095282-1-adb shell input tap 720  2084
+1618890102738-2-adb shell input tap 720  628
+1618890110256-3-adb shell input text "wenjielinju@gmail.com"
+1618890117797-4-adb shell input tap 720  974
+1618890128562-5-adb shell input text "liwenjie312523"
+1618890136103-6-adb shell input tap 720  1286
+1618890176048-7-adb shell input tap 720  2273
+1618890183590-8-adb shell input tap 1027  1767
+1618890196191-0-adb shell input tap 182  1001
+1618890216392-14-adb shell am force-stop org.wordpress.android
