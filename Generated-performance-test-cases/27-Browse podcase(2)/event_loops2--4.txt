@@ -1,0 +1,38 @@
+1618931057282-0-adb shell am start -n de.danoeh.antennapod/.activity.SplashActivity
+1618931066394-1-adb shell input tap 412  1031
+1618931073936-2-adb shell input tap 1269  601
+1618931086694-0-adb shell input tap 154  434
+1618931095150-4-adb shell input keyevent 4
+1618931106679-0-adb shell input tap 154  714
+1618931114698-4-adb shell input keyevent 4
+1618931126045-0-adb shell input tap 154  994
+1618931134090-4-adb shell input keyevent 4
+1618931145416-0-adb shell input tap 154  1274
+1618931153722-4-adb shell input keyevent 4
+1618931165052-0-adb shell input tap 154  1566
+1618931176907-4-adb shell input keyevent 4
+1618931188290-0-adb shell input tap 154  1846
+1618931196942-4-adb shell input keyevent 4
+1618931208250-0-adb shell input tap 154  2126
+1618931217301-4-adb shell input keyevent 4
+1618931229050-0-adb shell input tap 154  2356
+1618931237245-4-adb shell input keyevent 4
+1618931244854--1-adb shell input swipe 720 2387  720 275  2000
+1618931258415-0-adb shell input tap 154  316
+1618931266695-4-adb shell input keyevent 4
+1618931278162-0-adb shell input tap 154  534
+1618931286847-4-adb shell input keyevent 4
+1618931299000-0-adb shell input tap 154  814
+1618931307401-4-adb shell input keyevent 4
+1618931318717-0-adb shell input tap 154  1106
+1618931327328-4-adb shell input keyevent 4
+1618931338706-0-adb shell input tap 154  1386
+1618931349250-4-adb shell input keyevent 4
+1618931360608-0-adb shell input tap 154  1678
+1618931368417-4-adb shell input keyevent 4
+1618931379884-0-adb shell input tap 154  1958
+1618931387786-4-adb shell input keyevent 4
+1618931399114-0-adb shell input tap 154  2250
+1618931406837-4-adb shell input keyevent 4
+1618931414374--1-adb shell input swipe 720 2387  720 275  2000
+1618931424021-5-adb shell am force-stop de.danoeh.antennapod

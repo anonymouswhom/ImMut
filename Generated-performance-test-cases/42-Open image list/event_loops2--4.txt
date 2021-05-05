@@ -1,0 +1,26 @@
+1618822631469-0-adb shell am start -n link.standen.michael.slideshow/.MainActivity
+1618822640660-1-adb shell input tap 1045  1438
+1618822649822-2-adb shell input tap 1229  2237
+1618822663147-0-adb shell input tap 312  378
+1618822671042-4-adb shell input keyevent 4
+1618822682667-0-adb shell input tap 322  579
+1618822690765-4-adb shell input keyevent 4
+1618822702484-0-adb shell input tap 288  780
+1618822710241-4-adb shell input keyevent 4
+1618822722027-0-adb shell input tap 351  981
+1618822730588-4-adb shell input keyevent 4
+1618822742802-0-adb shell input tap 314  1182
+1618822750696-4-adb shell input keyevent 4
+1618822762128-0-adb shell input tap 297  1383
+1618822769738-4-adb shell input keyevent 4
+1618822781428-0-adb shell input tap 393  1584
+1618822789214-4-adb shell input keyevent 4
+1618822800779-0-adb shell input tap 346  1785
+1618822808514-4-adb shell input keyevent 4
+1618822820171-0-adb shell input tap 328  1986
+1618822828018-4-adb shell input keyevent 4
+1618822839788-0-adb shell input tap 343  2187
+1618822847513-4-adb shell input keyevent 4
+1618822859583-0-adb shell input tap 353  2369
+1618822867621-4-adb shell input keyevent 4
+1618822876766-5-adb shell am force-stop link.standen.michael.slideshow

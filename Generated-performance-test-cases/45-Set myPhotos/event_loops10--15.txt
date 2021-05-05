@@ -1,0 +1,32 @@
+1618840059257-0-adb shell am start -n net.nurik.roman.muzei/com.google.android.apps.muzei.MuzeiActivity
+1618840070051-1-adb shell input tap 720  1817
+1618840081805-2-adb shell input tap 1166  182
+1618840089703-3-adb shell input tap 720  1232
+1618840100078-4-adb shell input tap 720  1049
+1618840108800-5-adb shell input tap 720  2266
+1618840116545-6-adb shell input swipe 700 1200  700 400
+1618840124516-7-adb shell input tap 706  1442
+1618840132193-8-adb shell input tap 1045  1397
+1618840140303-9-adb shell input swipe 700 1200  700 400
+1618840148201-10-adb shell input tap 243  1616
+1618840156681-11-adb shell input tap 720  2238
+1618840166620-1-adb shell input tap 360  2294
+1618840173192--1-adb shell input swipe 700 1200  700 400
+1618840179933--1-adb shell input swipe 700 1200  700 400
+1618840187922--1-adb shell input swipe 700 1200  700 400
+1618840195926--1-adb shell input swipe 700 1200  700 400
+1618840203965--1-adb shell input swipe 700 1200  700 400
+1618840212049--1-adb shell input swipe 700 1200  700 400
+1618840220040--1-adb shell input swipe 700 1200  700 400
+1618840227955--1-adb shell input swipe 700 1200  700 400
+1618840235903--1-adb shell input swipe 700 1200  700 400
+1618840242558--1-adb shell input swipe 1216 173
+1618840248944--1-adb shell input swipe 1216 173
+1618840256631-15-adb shell input keyevent 4
+1618840265021-6-adb shell input swipe 700 1200  700 400
+1618840273789--1-adb shell input swipe 700 1200  700 400
+1618840281376--1-adb shell input swipe 700 1200  700 400
+1618840288623--1-adb shell input swipe 1216 173
+1618840295564--1-adb shell input swipe 1216 173
+1618840304065-15-adb shell input keyevent 4
+1618840311936-16-adb shell am force-stop net.nurik.roman.muzei

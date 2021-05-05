@@ -1,0 +1,17 @@
+1619003607621-0-adb shell am start -n eu.siacs.conversations/.ui.ConversationActivity
+1619003615694-1-adb shell input tap 994  2273
+1619003623662-2-adb shell input text "struggggle"
+1619003637287-0-adb shell input tap 720  476
+1619003646801-1-adb shell input tap 720  476
+1619003654572-5-adb shell input text "liwenjie"
+1619003666417-0-adb shell input tap 720  476
+1619003674641-1-adb shell input tap 720  673
+1619003682312-5-adb shell input text "liwenjie"
+1619003693873-0-adb shell input tap 720  673
+1619003702906-1-adb shell input tap 720  476
+1619003710618-5-adb shell input text "liwenjie"
+1619003722409-0-adb shell input tap 720  673
+1619003730082-1-adb shell input tap 720  673
+1619003738285-5-adb shell input text "liwenjie"
+1619003746110-6-adb shell input tap 1081  1321
+1619003753937-7-adb shell am force-stop eu.siacs.conversations

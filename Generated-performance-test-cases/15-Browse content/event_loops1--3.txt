@@ -1,0 +1,39 @@
+1618939383906-0-adb shell am start -n com.moez.QKSMS/.feature.main.MainActivity
+1618939391909-1-adb shell input tap 1193  1414
+1618939406193-0-adb shell input tap 164  409
+1618939414082-3-adb shell input keyevent 4
+1618939425799-0-adb shell input tap 164  661
+1618939433403-3-adb shell input keyevent 4
+1618939444934-0-adb shell input tap 164  913
+1618939453088-3-adb shell input keyevent 4
+1618939464711-0-adb shell input tap 164  1165
+1618939472605-3-adb shell input keyevent 4
+1618939484307-0-adb shell input tap 164  1417
+1618939492030-3-adb shell input keyevent 4
+1618939503540-0-adb shell input tap 164  1669
+1618939511159-3-adb shell input keyevent 4
+1618939522675-0-adb shell input tap 164  1921
+1618939530283-3-adb shell input keyevent 4
+1618939541774-0-adb shell input tap 164  2173
+1618939549362-3-adb shell input keyevent 4
+1618939560852-0-adb shell input tap 164  2370
+1618939568449-3-adb shell input keyevent 4
+1618939576322--1-adb shell input swipe 720 2383  720 275  2000
+1618939589861-0-adb shell input tap 164  445
+1618939597461-3-adb shell input keyevent 4
+1618939609173-0-adb shell input tap 164  697
+1618939617031-3-adb shell input keyevent 4
+1618939628586-0-adb shell input tap 164  949
+1618939636314-3-adb shell input keyevent 4
+1618939648013-0-adb shell input tap 164  1201
+1618939655767-3-adb shell input keyevent 4
+1618939667456-0-adb shell input tap 164  1453
+1618939675158-3-adb shell input keyevent 4
+1618939686738-0-adb shell input tap 164  1705
+1618939694444-3-adb shell input keyevent 4
+1618939705927-0-adb shell input tap 164  1957
+1618939713757-3-adb shell input keyevent 4
+1618939725315-0-adb shell input tap 164  2209
+1618939733154-3-adb shell input keyevent 4
+1618939741005--1-adb shell input swipe 720 2383  720 275  2000
+1618939750948-4-adb shell am force-stop com.moez.QKSMS

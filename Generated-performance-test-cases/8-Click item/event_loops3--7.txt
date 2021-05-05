@@ -1,0 +1,30 @@
+1618938617074-0-adb shell am start -n fr.neamar.kiss/.MainActivity
+1618938624711-1-adb shell input tap 1045  1397
+1618938632510-2-adb shell input tap 720  2287
+1618938640330-3-adb shell input text "1"
+1618938653497-0-adb shell input tap 154  94
+1618938661618-5-adb shell input keyevent 4
+1618938669279-6-adb shell input tap 720  2287
+1618938676985-7-adb shell input text "1"
+1618938688762-0-adb shell input tap 154  234
+1618938696558-5-adb shell input keyevent 4
+1618938704194-6-adb shell input tap 720  2287
+1618938711887-7-adb shell input text "1"
+1618938723488-0-adb shell input tap 154  448
+1618938731272-5-adb shell input keyevent 4
+1618938738989-6-adb shell input tap 720  2287
+1618938746677-7-adb shell input text "1"
+1618938758221-0-adb shell input tap 154  662
+1618938766106-5-adb shell input keyevent 4
+1618938773805-6-adb shell input tap 720  2287
+1618938781671-7-adb shell input text "1"
+1618938793351-0-adb shell input tap 154  876
+1618938801182-5-adb shell input keyevent 4
+1618938808899-6-adb shell input tap 720  2287
+1618938816742-7-adb shell input text "1"
+1618938828506-0-adb shell input tap 154  1090
+1618938836295-5-adb shell input keyevent 4
+1618938843886-6-adb shell input tap 720  2287
+1618938851718-7-adb shell input text "1"
+1618938859452--1-adb shell input swipe 720 1190  720 79  2000
+1618938869291-8-adb shell am force-stop fr.neamar.kiss

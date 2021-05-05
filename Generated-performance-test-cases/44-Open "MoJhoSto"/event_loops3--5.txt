@@ -1,0 +1,11 @@
+1618990764495-0-adb shell am start -n com.gelakinetic.mtgfam/.FamiliarActivity
+1618990772903-1-adb shell input tap 98  182
+1618990780688-2-adb shell input tap 451  1848
+1618990788360-3-adb shell input tap 314  2168
+1618990801216-0-adb shell input tap 276  640
+1618990809187-5-adb shell input keyevent 4
+1618990820911-0-adb shell input tap 276  1335
+1618990830280-5-adb shell input keyevent 4
+1618990842722-0-adb shell input tap 276  2030
+1618990851900-5-adb shell input keyevent 4
+1618990859898-6-adb shell am force-stop com.gelakinetic.mtgfam

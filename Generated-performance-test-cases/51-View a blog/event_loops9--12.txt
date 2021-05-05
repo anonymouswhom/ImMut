@@ -1,0 +1,65 @@
+1618890891822-0-adb shell am start -n org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity
+1618890899685-1-adb shell input tap 720  2084
+1618890907145-2-adb shell input tap 720  628
+1618890914688-3-adb shell input text "wenjielinju@gmail.com"
+1618890922303-4-adb shell input tap 720  974
+1618890930130-5-adb shell input text "liwenjie312523"
+1618890937856-6-adb shell input tap 720  1286
+1618890978191-7-adb shell input tap 720  2273
+1618890985839-8-adb shell input tap 1027  1767
+1618890993397-9-adb shell input tap 899  1001
+1618891006704--1-adb shell input swipe 720 2387  720 443  2000
+1618891021111-0-adb shell input tap 282  777
+1618891030416--1-adb shell input swipe 700 1400  700 400
+1618891037103--1-adb shell input swipe 700 1400  700 400
+1618891045036-12-adb shell input keyevent 4
+1618891057283-0-adb shell input tap 762  777
+1618891068756--1-adb shell input swipe 700 1400  700 400
+1618891075530--1-adb shell input swipe 700 1400  700 400
+1618891083485--1-adb shell input swipe 700 1400  700 400
+1618891091537--1-adb shell input swipe 700 1400  700 400
+1618891099708--1-adb shell input swipe 700 1400  700 400
+1618891107732--1-adb shell input swipe 700 1400  700 400
+1618891115674--1-adb shell input swipe 700 1400  700 400
+1618891123721--1-adb shell input swipe 700 1400  700 400
+1618891131753--1-adb shell input swipe 700 1400  700 400
+1618891139769--1-adb shell input swipe 700 1400  700 400
+1618891148168--1-adb shell input swipe 700 1400  700 400
+1618891156315--1-adb shell input swipe 700 1400  700 400
+1618891164390--1-adb shell input swipe 700 1400  700 400
+1618891172540-12-adb shell input keyevent 4
+1618891185072-0-adb shell input tap 1242  777
+1618891192554--1-adb shell input swipe 700 1400  700 400
+1618891200598--1-adb shell input swipe 700 1400  700 400
+1618891208757--1-adb shell input swipe 700 1400  700 400
+1618891216662--1-adb shell input swipe 700 1400  700 400
+1618891224531-12-adb shell input keyevent 4
+1618891232145--1-adb shell input swipe 700 1400  700 400
+1618891238729--1-adb shell input swipe 700 1400  700 400
+1618891246568--1-adb shell input swipe 700 1400  700 400
+1618891254412-12-adb shell input keyevent 4
+1618891261978--1-adb shell input swipe 700 1400  700 400
+1618891268596--1-adb shell input swipe 700 1400  700 400
+1618891276451--1-adb shell input swipe 700 1400  700 400
+1618891284428-12-adb shell input keyevent 4
+1618891291910--1-adb shell input swipe 700 1400  700 400
+1618891298412--1-adb shell input swipe 700 1400  700 400
+1618891306356--1-adb shell input swipe 700 1400  700 400
+1618891314217-12-adb shell input keyevent 4
+1618891321823--1-adb shell input swipe 700 1400  700 400
+1618891328492--1-adb shell input swipe 700 1400  700 400
+1618891336339--1-adb shell input swipe 700 1400  700 400
+1618891344322-12-adb shell input keyevent 4
+1618891351807--1-adb shell input swipe 700 1400  700 400
+1618891358365--1-adb shell input swipe 700 1400  700 400
+1618891366285--1-adb shell input swipe 700 1400  700 400
+1618891374249-12-adb shell input keyevent 4
+1618891381895--1-adb shell input swipe 700 1400  700 400
+1618891388904--1-adb shell input swipe 700 1400  700 400
+1618891396884--1-adb shell input swipe 700 1400  700 400
+1618891404755-12-adb shell input keyevent 4
+1618891412257--1-adb shell input swipe 720 2387  720 443  2000
+1618891421931--1-adb shell input swipe 720 2387  720 443  2000
+1618891431457--1-adb shell input swipe 720 2387  720 443  2000
+1618891441724-13-adb shell input keyevent 4
+1618891449155-14-adb shell am force-stop org.wordpress.android

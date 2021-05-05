@@ -1,0 +1,20 @@
+1618844863330-0-adb shell am start -n me.ccrama.redditslide/.Activities.Slide
+1618844871410-1-adb shell input tap 720  2298
+1618844879414-2-adb shell input tap 1319  2294
+1618844892129-3-adb shell input tap 1045  1397
+1618844900566-4-adb shell input tap 1212  2246
+1618844908656-5-adb shell input tap 1053  2139
+1618844916911-6-adb shell input tap 1250  364
+1618844931481-7-adb shell input tap 720  826
+1618844941577-8-adb shell input keyevent 4
+1618844949447-9-adb shell input keyevent 4
+1618844963138-0-adb shell input tap 720  826
+1618844971107-11-adb shell input keyevent 4
+1618844982817-0-adb shell input tap 110  1446
+1618844991678-11-adb shell input keyevent 4
+1618845001046-11-adb shell input keyevent 4
+1618845013000-0-adb shell input tap 1349  1446
+1618845021271-11-adb shell input keyevent 4
+1618845033183-0-adb shell input tap 720  1887
+1618845041208-11-adb shell input keyevent 4
+1618845049171-12-adb shell am force-stop me.ccrama.redditslide

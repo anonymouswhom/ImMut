@@ -1,0 +1,122 @@
+1618761847908-0-adb shell am start -n link.standen.michael.slideshow/.MainActivity
+1618761856401-1-adb shell input tap 1045  1438
+1618761864856-2-adb shell input tap 1229  2237
+1618761872630-3-adb shell input tap 351  981
+1618761886446-0-adb shell input tap 105  378
+1618761895968-5-adb shell input keyevent 4
+1618761909350-0-adb shell input tap 105  579
+1618761918520-5-adb shell input keyevent 4
+1618761931485-0-adb shell input tap 105  780
+1618761939817-5-adb shell input keyevent 4
+1618761952903-0-adb shell input tap 105  981
+1618761961360-5-adb shell input keyevent 4
+1618761974759-0-adb shell input tap 105  1182
+1618761983221-5-adb shell input keyevent 4
+1618761996179-0-adb shell input tap 105  1383
+1618762004950-5-adb shell input keyevent 4
+1618762018455-0-adb shell input tap 105  1584
+1618762027383-5-adb shell input keyevent 4
+1618762040122-0-adb shell input tap 105  1785
+1618762048832-5-adb shell input keyevent 4
+1618762062265-0-adb shell input tap 105  1986
+1618762071403-5-adb shell input keyevent 4
+1618762086919-0-adb shell input tap 105  2187
+1618762095471-5-adb shell input keyevent 4
+1618762110625-0-adb shell input tap 105  2346
+1618762119611-5-adb shell input keyevent 4
+1618762128347--1-adb shell input swipe 720 2387  720 275  2000
+1618762144922-0-adb shell input tap 105  353
+1618762154714-5-adb shell input keyevent 4
+1618762169117-0-adb shell input tap 105  539
+1618762177902-5-adb shell input keyevent 4
+1618762192064-0-adb shell input tap 105  740
+1618762200565-5-adb shell input keyevent 4
+1618762213846-0-adb shell input tap 105  941
+1618762222864-5-adb shell input keyevent 4
+1618762237060-0-adb shell input tap 105  1142
+1618762245680-5-adb shell input keyevent 4
+1618762258669-0-adb shell input tap 105  1343
+1618762267414-5-adb shell input keyevent 4
+1618762282141-0-adb shell input tap 105  1544
+1618762290974-5-adb shell input keyevent 4
+1618762304769-0-adb shell input tap 105  1745
+1618762314222-5-adb shell input keyevent 4
+1618762328713-0-adb shell input tap 105  1946
+1618762337727-5-adb shell input keyevent 4
+1618762351794-0-adb shell input tap 105  2147
+1618762360459-5-adb shell input keyevent 4
+1618762375093-0-adb shell input tap 105  2326
+1618762383555-5-adb shell input keyevent 4
+1618762392307--1-adb shell input swipe 720 2387  720 275  2000
+1618762408448-0-adb shell input tap 105  301
+1618762417608-5-adb shell input keyevent 4
+1618762431260-0-adb shell input tap 105  435
+1618762439575-5-adb shell input keyevent 4
+1618762453893-0-adb shell input tap 105  636
+1618762462629-5-adb shell input keyevent 4
+1618762476641-0-adb shell input tap 105  837
+1618762484931-5-adb shell input keyevent 4
+1618762498744-0-adb shell input tap 105  1038
+1618762507551-5-adb shell input keyevent 4
+1618762521879-0-adb shell input tap 105  1239
+1618762530846-5-adb shell input keyevent 4
+1618762544622-0-adb shell input tap 105  1440
+1618762552912-5-adb shell input keyevent 4
+1618762566843-0-adb shell input tap 105  1641
+1618762575115-5-adb shell input keyevent 4
+1618762587713-0-adb shell input tap 105  1842
+1618762596137-5-adb shell input keyevent 4
+1618762609512-0-adb shell input tap 105  2043
+1618762617789-5-adb shell input keyevent 4
+1618762631062-0-adb shell input tap 105  2244
+1618762639730-5-adb shell input keyevent 4
+1618762653616-0-adb shell input tap 105  2375
+1618762661879-5-adb shell input keyevent 4
+1618762672592--1-adb shell input swipe 720 2387  720 275  2000
+1618762688138-0-adb shell input tap 105  337
+1618762696779-5-adb shell input keyevent 4
+1618762709835-0-adb shell input tap 105  508
+1618762718185-5-adb shell input keyevent 4
+1618762730409-0-adb shell input tap 105  709
+1618762738875-5-adb shell input keyevent 4
+1618762752506-0-adb shell input tap 105  910
+1618762761253-5-adb shell input keyevent 4
+1618762776860-0-adb shell input tap 105  1111
+1618762785108-5-adb shell input keyevent 4
+1618762798394-0-adb shell input tap 105  1312
+1618762806775-5-adb shell input keyevent 4
+1618762820410-0-adb shell input tap 105  1513
+1618762828966-5-adb shell input keyevent 4
+1618762841983-0-adb shell input tap 105  1714
+1618762850914-5-adb shell input keyevent 4
+1618762863121-0-adb shell input tap 105  1915
+1618762871634-5-adb shell input keyevent 4
+1618762885474-0-adb shell input tap 105  2116
+1618762894615-5-adb shell input keyevent 4
+1618762907546-0-adb shell input tap 105  2311
+1618762916016-5-adb shell input keyevent 4
+1618762925117--1-adb shell input swipe 720 2387  720 275  2000
+1618762942641-0-adb shell input tap 105  325
+1618762951427-5-adb shell input keyevent 4
+1618762965562-0-adb shell input tap 105  484
+1618762974010-5-adb shell input keyevent 4
+1618762986688-0-adb shell input tap 105  685
+1618762994975-5-adb shell input keyevent 4
+1618763010598-0-adb shell input tap 105  886
+1618763019291-5-adb shell input keyevent 4
+1618763032784-0-adb shell input tap 105  1087
+1618763041557-5-adb shell input keyevent 4
+1618763055694-0-adb shell input tap 105  1288
+1618763064365-5-adb shell input keyevent 4
+1618763079114-0-adb shell input tap 105  1489
+1618763087905-5-adb shell input keyevent 4
+1618763100937-0-adb shell input tap 105  1690
+1618763109117-5-adb shell input keyevent 4
+1618763123067-0-adb shell input tap 105  1891
+1618763132021-5-adb shell input keyevent 4
+1618763146061-0-adb shell input tap 105  2092
+1618763154312-5-adb shell input keyevent 4
+1618763167879-0-adb shell input tap 105  2293
+1618763176109-5-adb shell input keyevent 4
+1618763185373--1-adb shell input swipe 720 2387  720 275  2000
+1618763195216-6-adb shell am force-stop link.standen.michael.slideshow

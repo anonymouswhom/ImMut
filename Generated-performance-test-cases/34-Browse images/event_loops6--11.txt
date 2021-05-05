@@ -1,0 +1,57 @@
+1618843457343-0-adb shell am start -n me.ccrama.redditslide/.Activities.Slide
+1618843465097-1-adb shell input tap 720  2298
+1618843472972-2-adb shell input tap 1319  2294
+1618843484315-3-adb shell input tap 1045  1397
+1618843492718-4-adb shell input tap 1212  2246
+1618843500596-5-adb shell input tap 1053  2139
+1618843508520-6-adb shell input tap 1250  364
+1618843525946-0-adb shell input tap 720  826
+1618843534634-8-adb shell input keyevent 4
+1618843542953-9-adb shell input keyevent 4
+1618843552725-3-adb shell input tap 720  826
+1618843561211-11-adb shell input keyevent 4
+1618843573287-0-adb shell input tap 720  826
+1618843581412-8-adb shell input keyevent 4
+1618843589609-9-adb shell input keyevent 4
+1618843599162-11-adb shell input keyevent 4
+1618843610911-0-adb shell input tap 720  826
+1618843619294-8-adb shell input keyevent 4
+1618843627674-9-adb shell input keyevent 4
+1618843637012-11-adb shell input keyevent 4
+1618843648913-0-adb shell input tap 720  826
+1618843657205-8-adb shell input keyevent 4
+1618843665281-9-adb shell input keyevent 4
+1618843674719-11-adb shell input keyevent 4
+1618843686634-0-adb shell input tap 720  826
+1618843694660-8-adb shell input keyevent 4
+1618843702922-9-adb shell input keyevent 4
+1618843712404-11-adb shell input keyevent 4
+1618843724565-0-adb shell input tap 110  1536
+1618843734410-8-adb shell input keyevent 4
+1618843742893-9-adb shell input keyevent 4
+1618843752883-3-adb shell input tap 720  826
+1618843761527-11-adb shell input keyevent 4
+1618843773272-0-adb shell input tap 110  1536
+1618843782248-8-adb shell input keyevent 4
+1618843790386-9-adb shell input keyevent 4
+1618843799530-11-adb shell input keyevent 4
+1618843811219-0-adb shell input tap 110  1536
+1618843819907-8-adb shell input keyevent 4
+1618843828094-9-adb shell input keyevent 4
+1618843837648-11-adb shell input keyevent 4
+1618843849444-0-adb shell input tap 110  1536
+1618843859357-8-adb shell input keyevent 4
+1618843867944-9-adb shell input keyevent 4
+1618843877204-11-adb shell input keyevent 4
+1618843888938-0-adb shell input tap 110  1536
+1618843897759-8-adb shell input keyevent 4
+1618843905625-9-adb shell input keyevent 4
+1618843914649-11-adb shell input keyevent 4
+1618843926426-0-adb shell input tap 309  1536
+1618843934944-8-adb shell input keyevent 4
+1618843942937-9-adb shell input keyevent 4
+1618843952108-8-adb shell input keyevent 4
+1618843960023-9-adb shell input keyevent 4
+1618843969354-8-adb shell input keyevent 4
+1618843977742-9-adb shell input keyevent 4
+1618843986976-12-adb shell am force-stop me.ccrama.redditslide
