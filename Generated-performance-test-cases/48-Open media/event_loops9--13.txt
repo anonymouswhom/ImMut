@@ -1,0 +1,70 @@
+1620605090156-0-adb shell am start -n org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity
+1620605099629-1-adb shell input tap 720  2084
+1620605107857-2-adb shell input tap 720  628
+1620605115967-3-adb shell input text "wenjielinju@gmail.com"
+1620605124317-4-adb shell input tap 720  974
+1620605133010-5-adb shell input text "liwenjie312523"
+1620605141021-6-adb shell input tap 720  1286
+1620605181799-7-adb shell input tap 720  2273
+1620605189609-8-adb shell input tap 1027  1767
+1620605197406-9-adb shell input tap 1258  1001
+1620605212201-0-adb shell input tap 240  630
+1620605220496-11-adb shell input tap 1286  956
+1620605228416-12-adb shell input keyevent 4
+1620605236218-13-adb shell input keyevent 4
+1620605247820-0-adb shell input tap 720  630
+1620605255588-11-adb shell input tap 1286  956
+1620605263689-12-adb shell input keyevent 4
+1620605271532-13-adb shell input keyevent 4
+1620605283016-0-adb shell input tap 1200  630
+1620605290840-11-adb shell input tap 1286  956
+1620605298806-12-adb shell input keyevent 4
+1620605306548-13-adb shell input keyevent 4
+1620605318044-0-adb shell input tap 240  994
+1620605325867-11-adb shell input tap 1286  956
+1620605333900-12-adb shell input keyevent 4
+1620605341787-13-adb shell input keyevent 4
+1620605353223-0-adb shell input tap 720  994
+1620605360992-11-adb shell input tap 1286  956
+1620605368949-12-adb shell input keyevent 4
+1620605376698-13-adb shell input keyevent 4
+1620605388237-0-adb shell input tap 1200  994
+1620605396091-11-adb shell input tap 1286  956
+1620605404143-12-adb shell input keyevent 4
+1620605411924-13-adb shell input keyevent 4
+1620605423648-0-adb shell input tap 240  1358
+1620605431422-11-adb shell input tap 1286  956
+1620605439466-12-adb shell input keyevent 4
+1620605447315-13-adb shell input keyevent 4
+1620605459248-0-adb shell input tap 720  1358
+1620605467670-11-adb shell input tap 1286  956
+1620605475817-12-adb shell input keyevent 4
+1620605483742-13-adb shell input keyevent 4
+1620605495588-0-adb shell input tap 1200  1358
+1620605503601-11-adb shell input tap 1286  956
+1620605511776-12-adb shell input keyevent 4
+1620605519656-13-adb shell input keyevent 4
+1620605531601-0-adb shell input tap 240  1722
+1620605539458-11-adb shell input tap 1286  956
+1620605547660-12-adb shell input keyevent 4
+1620605555801-13-adb shell input keyevent 4
+1620605567657-0-adb shell input tap 720  1722
+1620605575876-11-adb shell input tap 1286  956
+1620605584596-12-adb shell input keyevent 4
+1620605592701-13-adb shell input keyevent 4
+1620605604498-0-adb shell input tap 1200  1722
+1620605612270-11-adb shell input tap 1286  956
+1620605620162-12-adb shell input keyevent 4
+1620605627898-13-adb shell input keyevent 4
+1620605639454-0-adb shell input tap 240  2072
+1620605647280-11-adb shell input tap 1286  956
+1620605655146-12-adb shell input keyevent 4
+1620605662976-13-adb shell input keyevent 4
+1620605674548-0-adb shell input tap 720  2072
+1620605682381-11-adb shell input tap 1286  956
+1620605690277-12-adb shell input keyevent 4
+1620605698086-13-adb shell input keyevent 4
+1620605709543-0-adb shell input tap 1200  2072
+1620605717323-11-adb shell input tap 1286  956
+1620605725308-12-adb shell input keyevent 4
+1620605733044-13-adb shell input keyevent 4
