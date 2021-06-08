@@ -1,0 +1,306 @@
+1620591870053-adb shell am start -n org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity
+1620591881956-adb shell input tap 720  2084
+1620591889834-adb shell input tap 720  628
+1620591897664-adb shell input text "wenjielinju@gmail.com"
+1620591905738-adb shell input tap 720  974
+1620591913829-adb shell input text "liwenjie312523"
+1620591921898-adb shell input tap 720  1286
+1620591962365-adb shell input tap 720  2273
+1620591970220-adb shell input tap 1027  1767
+1620591977914-adb shell input tap 899  1001
+1620591987881-adb shell input tap 282  814
+1620591997627-adb shell input keyevent 4
+1620592005522-adb shell input tap 282  814
+1620592014301-adb shell input keyevent 4
+1620592022394-adb shell input tap 282  814
+1620592031259-adb shell input keyevent 4
+1620592039160-adb shell input tap 282  814
+1620592047618-adb shell input keyevent 4
+1620592055517-adb shell input tap 282  814
+1620592064126-adb shell input keyevent 4
+1620592071903-adb shell input tap 282  814
+1620592080602-adb shell input keyevent 4
+1620592088488-adb shell input tap 282  814
+1620592097333-adb shell input keyevent 4
+1620592105241-adb shell am force-stop org.wordpress.android
+1620592113163-adb shell am start -n org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity
+1620592128090-adb shell input text "wenjielinju@gmail.com"
+1620592137348-adb shell input text "liwenjie312523"
+1620592149450-adb shell input tap 899  1001
+1620592157718-adb shell input tap 282  1296
+1620592170799-adb shell am start -n org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity
+1620592182657-adb shell input tap 720  2084
+1620592190536-adb shell input tap 720  628
+1620592198273-adb shell input text "wenjielinju@gmail.com"
+1620592206170-adb shell input tap 720  974
+1620592214500-adb shell input text "liwenjie312523"
+1620592222310-adb shell input tap 720  1286
+1620592232901-adb shell input tap 720  2273
+1620592240766-adb shell input tap 1027  1767
+1620592248555-adb shell input tap 899  1001
+1620592258588-adb shell input tap 762  814
+1620592275343-adb shell am start -n org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity
+1620592287400-adb shell input tap 720  2084
+1620592295156-adb shell input tap 720  628
+1620592302818-adb shell input text "wenjielinju@gmail.com"
+1620592310635-adb shell input tap 720  974
+1620592318959-adb shell input text "liwenjie312523"
+1620592326814-adb shell input tap 720  1286
+1620592367157-adb shell input tap 720  2273
+1620592375032-adb shell input tap 1027  1767
+1620592382843-adb shell input tap 899  1001
+1620592417242-adb shell am start -n org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity
+1620592429194-adb shell input tap 720  2084
+1620592438041-adb shell input tap 720  628
+1620592446336-adb shell input text "wenjielinju@gmail.com"
+1620592454422-adb shell input tap 720  974
+1620592462831-adb shell input text "liwenjie312523"
+1620592470652-adb shell input tap 720  1286
+1620592511243-adb shell input tap 720  2273
+1620592519173-adb shell input tap 1027  1767
+1620592526967-adb shell input tap 899  1001
+1620592536457-adb shell input tap 282  814
+1620592546162-adb shell input keyevent 4
+1620592553997-adb shell input tap 282  1296
+1620592567154-adb shell am start -n org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity
+1620592579594-adb shell input tap 720  2084
+1620592587356-adb shell input tap 720  628
+1620592595117-adb shell input text "wenjielinju@gmail.com"
+1620592602966-adb shell input tap 720  974
+1620592611023-adb shell input text "liwenjie312523"
+1620592618873-adb shell input tap 720  1286
+1620592659317-adb shell input tap 720  2273
+1620592667165-adb shell input tap 1027  1767
+1620592674903-adb shell input tap 899  1001
+1620592684227-adb shell input tap 282  814
+1620592693578-adb shell input keyevent 4
+1620592701286-adb shell input tap 762  814
+1620592717343-adb shell am start -n org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity
+1620592729253-adb shell input tap 720  2084
+1620592737017-adb shell input tap 720  628
+1620592744817-adb shell input text "wenjielinju@gmail.com"
+1620592752809-adb shell input tap 720  974
+1620592760955-adb shell input text "liwenjie312523"
+1620592769565-adb shell input tap 720  1286
+1620592810031-adb shell input tap 720  2273
+1620592817879-adb shell input tap 1027  1767
+1620592825754-adb shell input tap 899  1001
+1620592835274-adb shell input tap 282  814
+1620592844860-adb shell input keyevent 4
+1620592881455-adb shell am start -n org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity
+1620592893466-adb shell input tap 720  2084
+1620592901227-adb shell input tap 720  628
+1620592909046-adb shell input text "wenjielinju@gmail.com"
+1620592916900-adb shell input tap 720  974
+1620592925046-adb shell input text "liwenjie312523"
+1620592932871-adb shell input tap 720  1286
+1620592973246-adb shell input tap 720  2273
+1620592981082-adb shell input tap 1027  1767
+1620592988822-adb shell input tap 899  1001
+1620592999763-adb shell input tap 282  814
+1620593013761-adb shell input keyevent 4
+1620593023105-adb shell input tap 282  814
+1620593031859-adb shell input keyevent 4
+1620593039603-adb shell input tap 282  814
+1620593052076-adb shell input text "wenjielinju@gmail.com"
+1620593061214-adb shell input keyevent 4
+1620593069081-adb shell input tap 282  814
+1620593081750-adb shell input text "wenjielinju@gmail.com"
+1620593090872-adb shell input keyevent 4
+1620593098758-adb shell input tap 282  814
+1620593111173-adb shell input text "wenjielinju@gmail.com"
+1620593120333-adb shell input keyevent 4
+1620593128132-adb shell input tap 282  814
+1620593140837-adb shell input text "wenjielinju@gmail.com"
+1620593150015-adb shell input keyevent 4
+1620593157832-adb shell input tap 282  814
+1620593170381-adb shell input text "wenjielinju@gmail.com"
+1620593179621-adb shell input keyevent 4
+1620593187442-adb shell input tap 282  814
+1620593200476-adb shell input text "wenjielinju@gmail.com"
+1620593209685-adb shell input keyevent 4
+1620593217501-adb shell input tap 282  814
+1620593229981-adb shell input text "wenjielinju@gmail.com"
+1620593239242-adb shell input keyevent 4
+1620593247059-adb shell input tap 282  814
+1620593259966-adb shell input text "wenjielinju@gmail.com"
+1620593269342-adb shell input keyevent 4
+1620593277149-adb shell input tap 282  814
+1620593289872-adb shell input text "wenjielinju@gmail.com"
+1620593299030-adb shell input keyevent 4
+1620593306746-adb shell input tap 282  814
+1620593319497-adb shell input text "wenjielinju@gmail.com"
+1620593328839-adb shell input keyevent 4
+1620593336634-adb shell input tap 282  814
+1620593349285-adb shell input text "wenjielinju@gmail.com"
+1620593358575-adb shell input keyevent 4
+1620593366569-adb shell input tap 762  814
+1620593380224-adb shell input keyevent 4
+1620593389467-adb shell input tap 282  814
+1620593398302-adb shell input keyevent 4
+1620593406114-adb shell input tap 762  814
+1620593417899-adb shell input text "wenjielinju@gmail.com"
+1620593427051-adb shell input keyevent 4
+1620593434963-adb shell input tap 762  814
+1620593447964-adb shell input text "wenjielinju@gmail.com"
+1620593457297-adb shell input keyevent 4
+1620593465189-adb shell input tap 762  814
+1620593477803-adb shell input text "wenjielinju@gmail.com"
+1620593487316-adb shell input keyevent 4
+1620593495268-adb shell input tap 762  814
+1620593507754-adb shell input text "wenjielinju@gmail.com"
+1620593517069-adb shell input keyevent 4
+1620593524951-adb shell input tap 762  814
+1620593537364-adb shell input text "wenjielinju@gmail.com"
+1620593546553-adb shell input keyevent 4
+1620593554378-adb shell input tap 762  814
+1620593566777-adb shell input text "wenjielinju@gmail.com"
+1620593576072-adb shell input keyevent 4
+1620593583981-adb shell input tap 762  814
+1620593596321-adb shell input text "wenjielinju@gmail.com"
+1620593605941-adb shell input keyevent 4
+1620593613779-adb shell input tap 762  814
+1620593626604-adb shell input text "wenjielinju@gmail.com"
+1620593636017-adb shell input keyevent 4
+1620593643952-adb shell input tap 762  814
+1620593656342-adb shell input text "wenjielinju@gmail.com"
+1620593665818-adb shell input keyevent 4
+1620593673577-adb shell input tap 762  814
+1620593686323-adb shell input text "wenjielinju@gmail.com"
+1620593695696-adb shell input keyevent 4
+1620593703508-adb shell input tap 762  814
+1620593715898-adb shell input text "wenjielinju@gmail.com"
+1620593725071-adb shell input keyevent 4
+1620593732909-adb shell input tap 1242  814
+1620593744279-adb shell input keyevent 4
+1620593753389-adb shell input tap 282  814
+1620593762532-adb shell input keyevent 4
+1620593770322-adb shell input tap 1242  814
+1620593781803-adb shell input text "wenjielinju@gmail.com"
+1620593790805-adb shell input keyevent 4
+1620593798561-adb shell input tap 1242  814
+1620593810239-adb shell input text "wenjielinju@gmail.com"
+1620593819265-adb shell input keyevent 4
+1620593827079-adb shell input tap 1242  814
+1620593838513-adb shell input text "wenjielinju@gmail.com"
+1620593847635-adb shell input keyevent 4
+1620593855591-adb shell input tap 1242  814
+1620593867264-adb shell input text "wenjielinju@gmail.com"
+1620593876226-adb shell input keyevent 4
+1620593884146-adb shell input tap 1242  814
+1620593895638-adb shell input text "wenjielinju@gmail.com"
+1620593904671-adb shell input keyevent 4
+1620593912535-adb shell input tap 1242  814
+1620593924076-adb shell input text "wenjielinju@gmail.com"
+1620593933167-adb shell input keyevent 4
+1620593940964-adb shell input tap 1242  814
+1620593952426-adb shell input text "wenjielinju@gmail.com"
+1620593961550-adb shell input keyevent 4
+1620593969356-adb shell input tap 1242  814
+1620593980858-adb shell input text "wenjielinju@gmail.com"
+1620593989949-adb shell input keyevent 4
+1620593997800-adb shell input tap 1242  814
+1620594009351-adb shell input text "wenjielinju@gmail.com"
+1620594018480-adb shell input keyevent 4
+1620594026266-adb shell input tap 1242  814
+1620594037714-adb shell input text "wenjielinju@gmail.com"
+1620594046854-adb shell input keyevent 4
+1620594054614-adb shell input tap 1242  814
+1620594066144-adb shell input text "wenjielinju@gmail.com"
+1620594075346-adb shell input keyevent 4
+1620594083309-adb shell input tap 282  1296
+1620594096369-adb shell input keyevent 4
+1620594105558-adb shell input tap 282  814
+1620594114447-adb shell input keyevent 4
+1620594122238-adb shell input tap 282  1296
+1620594135078-adb shell input text "wenjielinju@gmail.com"
+1620594144363-adb shell input keyevent 4
+1620594152305-adb shell input tap 282  1296
+1620594165071-adb shell input text "wenjielinju@gmail.com"
+1620594174299-adb shell input keyevent 4
+1620594182205-adb shell input tap 282  1296
+1620594195160-adb shell input text "wenjielinju@gmail.com"
+1620594204412-adb shell input keyevent 4
+1620594212249-adb shell input tap 282  1296
+1620594225195-adb shell input text "wenjielinju@gmail.com"
+1620594234334-adb shell input keyevent 4
+1620594242186-adb shell input tap 282  1296
+1620594255017-adb shell input text "wenjielinju@gmail.com"
+1620594264269-adb shell input keyevent 4
+1620594272113-adb shell input tap 282  1296
+1620594285332-adb shell input text "wenjielinju@gmail.com"
+1620594294720-adb shell input keyevent 4
+1620594302600-adb shell input tap 282  1296
+1620594315673-adb shell input text "wenjielinju@gmail.com"
+1620594324859-adb shell input keyevent 4
+1620594332682-adb shell input tap 282  1296
+1620594345788-adb shell input text "wenjielinju@gmail.com"
+1620594354866-adb shell input keyevent 4
+1620594362625-adb shell input tap 282  1296
+1620594375426-adb shell input text "wenjielinju@gmail.com"
+1620594384514-adb shell input keyevent 4
+1620594392312-adb shell input tap 282  1296
+1620594405452-adb shell input text "wenjielinju@gmail.com"
+1620594414610-adb shell input keyevent 4
+1620594422400-adb shell input tap 282  1296
+1620594435227-adb shell input text "wenjielinju@gmail.com"
+1620594444484-adb shell input keyevent 4
+1620594452309-adb shell input tap 762  1296
+1620594466464-adb shell input keyevent 4
+1620594475777-adb shell input tap 282  814
+1620594484683-adb shell input keyevent 4
+1620594492493-adb shell input tap 762  1296
+1620594505600-adb shell input text "wenjielinju@gmail.com"
+1620594514895-adb shell input keyevent 4
+1620594522790-adb shell input tap 762  1296
+1620594535070-adb shell input text "wenjielinju@gmail.com"
+1620594544339-adb shell input keyevent 4
+1620594552078-adb shell input tap 762  1296
+1620594564491-adb shell input text "wenjielinju@gmail.com"
+1620594573772-adb shell input keyevent 4
+1620594581567-adb shell input tap 762  1296
+1620594594096-adb shell input text "wenjielinju@gmail.com"
+1620594603454-adb shell input keyevent 4
+1620594611254-adb shell input tap 762  1296
+1620594624018-adb shell input text "wenjielinju@gmail.com"
+1620594633446-adb shell input keyevent 4
+1620594641287-adb shell input tap 762  1296
+1620594653805-adb shell input text "wenjielinju@gmail.com"
+1620594663391-adb shell input keyevent 4
+1620594671270-adb shell input tap 762  1296
+1620594683881-adb shell input text "wenjielinju@gmail.com"
+1620594693290-adb shell input keyevent 4
+1620594701231-adb shell input tap 762  1296
+1620594714232-adb shell input text "wenjielinju@gmail.com"
+1620594723629-adb shell input keyevent 4
+1620594731372-adb shell input tap 762  1296
+1620594743981-adb shell input text "wenjielinju@gmail.com"
+1620594753334-adb shell input keyevent 4
+1620594761197-adb shell input tap 762  1296
+1620594773768-adb shell input text "wenjielinju@gmail.com"
+1620594783054-adb shell input keyevent 4
+1620594790925-adb shell input tap 762  1296
+1620594803649-adb shell input text "wenjielinju@gmail.com"
+1620594813050-adb shell input keyevent 4
+1620594821004-adb shell input tap 1242  1296
+1620594833128-adb shell input keyevent 4
+1620594842427-adb shell input tap 282  814
+1620594851539-adb shell input keyevent 4
+1620594859560-adb shell input tap 1242  1296
+1620594871870-adb shell input text "wenjielinju@gmail.com"
+1620594881068-adb shell input keyevent 4
+1620594889010-adb shell input tap 1242  1296
+1620594901371-adb shell input text "wenjielinju@gmail.com"
+1620594910798-adb shell input keyevent 4
+1620594918648-adb shell input tap 1242  1296
+1620594930576-adb shell input text "wenjielinju@gmail.com"
+1620594939836-adb shell input keyevent 4
+1620594947614-adb shell input tap 1242  1296
+1620594959418-adb shell input text "wenjielinju@gmail.com"
+1620594968557-adb shell input keyevent 4
+1620594976462-adb shell input tap 1242  1296
+1620594988335-adb shell input text "wenjielinju@gmail.com"
+1620594997677-adb shell input keyevent 4
+1620595005691-adb shell input tap 1242  1296
+1620595017490-adb shell input text "wenjielinju@gmail.com"
+1620595026800-adb shell input keyevent 4
